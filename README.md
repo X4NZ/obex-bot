@@ -10,3 +10,6 @@ Before you run the bot, you need to create a folder called loader in the root of
 
 #### Edit
 dont forget to edit .env file and your lua name in most of the commands (search for mylua.com in commands and edit it)
+
+# HELP
+if you need help, contact me on discord: XanZ#8924
